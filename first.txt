@@ -1,5 +1,6 @@
 apple juice
 banana
-fruits
+super fruits
 vegetables
 Hi all!!!
+NEW LINE!
